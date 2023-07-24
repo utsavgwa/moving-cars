@@ -10,7 +10,7 @@ This template is licensed under the MIT License. See the `LICENSE` file for more
 
 ## Live Preview
 
-Site is live as [**_Video Background Overlay_**](https://utsavgwa.github.io/moving-cars/), go and check it out!
+Site is live as [**_Moving Cars_**](https://utsavgwa.github.io/moving-cars/), go and check it out!
 See how it works.
 
 URL for website is:
